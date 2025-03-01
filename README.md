@@ -1,6 +1,4 @@
-# Rost ![imageedit_44_2426060857](https://github.com/user-attachments/assets/588f82e2-68bc-4edd-9185-87ee0a89c5b9)
-
-
+# Rost
 
 Rost is a open-source, fully customisable Roblox group-focused Discord bot dedicated to making hosting trainings, shifts, openings and sessions easier and faster than ever before.
 
