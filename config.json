@@ -1,0 +1,9 @@
+{
+    "token": "", -- Place your token here!
+    "guildId": "", -- Place your guild (server) ID here!
+    "messages": {
+      "hostTitle": "{sessionType} Hosted!", -- Configure the default embed title upon hosting, this can also be configured via a command!
+      "hostDescription": "{robloxUser} is now hosting a {sessionType}. Join now!" -- Configure the default embed description upon hosting, this can also be configured via a command!
+    }
+  }
+  
